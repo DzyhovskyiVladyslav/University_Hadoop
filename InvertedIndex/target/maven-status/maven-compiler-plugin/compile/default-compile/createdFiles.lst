@@ -1,0 +1,3 @@
+org\bigdatalab\InvertedIndex.class
+org\bigdatalab\InvertedIndexMapper.class
+org\bigdatalab\InvertedIndexReducer.class
